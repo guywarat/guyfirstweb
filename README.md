@@ -6,7 +6,7 @@ git init
 ```
 - เชื่อมต่อโปรเจคใน Local เข้ากับ git server กำหนดเฉพาะครั้งแรก
 ```bash
-git remote add "https://github.com/git_name/repo_name.git"
+git remote add "https://github.com/git_name/guyfirstweb.git"
 ```
 - เลือกไฟล์ให้อยู่ในสถานะ Staging area
 ```bash
